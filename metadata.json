@@ -1,0 +1,6 @@
+{
+  "name": "Cosmora — Train. Explore. Discover.",
+  "description": "Train for space with interactive astronaut missions, rocket launch telemetry, gravity simulations, NASA discoveries, and earn your official flight certificate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
